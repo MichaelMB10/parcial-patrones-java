@@ -6,7 +6,7 @@ Aplicación desarrollada en Java que simula el envío de notificaciones a travé
 
 ---
 
-## 📋 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 * **Gestión de Usuarios y Preferencias:** Registro de usuarios junto con la configuración de los canales de comunicación que tienen habilitados.
 * **Canales de Notificación Simulados:**
@@ -22,7 +22,7 @@ Aplicación desarrollada en Java que simula el envío de notificaciones a travé
 
 ---
 
-## 🏗️ Arquitectura y Patrones de Diseño
+##  Arquitectura y Patrones de Diseño
 
 El proyecto separa estrictamente la lógica de negocio de las capas de presentación mediante los siguientes paquetes y patrones:
 
@@ -48,7 +48,7 @@ src/
 
 ---
 
-## 🚀 Compilación y Ejecución con Maven
+##  Compilación y Ejecución con Maven
 
 Asegúrate de tener instalados **Java (JDK 11 o superior)** y **Apache Maven**.
 
